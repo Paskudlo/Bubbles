@@ -1,17 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Bubbles.Logic;
 using System.Windows.Forms;
 
 namespace Bubbles.Forms
 {
     public partial class MainBubblesForm : Form
     {
+        private Character character;
+
         public MainBubblesForm()
         {
             InitializeComponent();
