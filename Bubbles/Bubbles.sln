@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubbles.Forms", "Bubbles.Forms\Bubbles.Forms.csproj", "{BFDF7CD7-D555-4812-9091-AECC826A020D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubbles.Logic", "Bubbles.Logic\Bubbles.Logic.csproj", "{768AF5EA-BCC3-42E9-8CDD-876C1E8B035C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFDF7CD7-D555-4812-9091-AECC826A020D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDF7CD7-D555-4812-9091-AECC826A020D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDF7CD7-D555-4812-9091-AECC826A020D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDF7CD7-D555-4812-9091-AECC826A020D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768AF5EA-BCC3-42E9-8CDD-876C1E8B035C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768AF5EA-BCC3-42E9-8CDD-876C1E8B035C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768AF5EA-BCC3-42E9-8CDD-876C1E8B035C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768AF5EA-BCC3-42E9-8CDD-876C1E8B035C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
